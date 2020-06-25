@@ -1,7 +1,7 @@
 # Hello, EEML2020!
 by Viorica Patraucean and David Szepesvari
 
-_Designed for education purposes. Please do not distribute without permission_. 
+_Designed for educational purposes. Please do not distribute without permission_. 
 
 **Questions/Correspondence**: vpatrauc@gmail.com
 
@@ -17,7 +17,7 @@ _Special thanks to the authors of educational material at DeepMind, as their wor
 
 To run the colab:
 1. Go to https://colab.research.google.com
-2. In the window that opens, select Github
+2. In the window that opens, select *Github*
 3. Put *eemlcommunity* at *Enter a GitHub URL or search by organisation or user* and press *Search* button.
 4. In *Repository*, choose *eemlcommunity/PracticalSessions2020*.
 5. Select *intro/intro-tutorial.ipynb* and get to work! 
