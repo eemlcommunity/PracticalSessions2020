@@ -3,7 +3,7 @@ by Viorica Patraucean and David Szepesvari
 
 _Designed for educational purposes. Please do not distribute without permission_. 
 
-**Questions/Correspondence**: vpatrauc@gmail.com
+**Questions/Correspondence**: contact@eeml.eu
 
 This colaboratory (colab) will help you get prepared for the tutorials (practical sessions) at EEML 2020:
 
@@ -21,5 +21,3 @@ To run the colab:
 3. Put *eemlcommunity* at *Enter a GitHub URL or search by organisation or user* and press *Search* button.
 4. In *Repository*, choose *eemlcommunity/PracticalSessions2020*.
 5. Select *intro/intro-tutorial.ipynb* and get to work! 
-
-Use the **#intro_tutorial channel** in **EEML rocket chat** to ask any questions about the tutorial.
